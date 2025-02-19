@@ -7,4 +7,6 @@ This project implements **secure data hiding using steganography** in images. It
 - Encrypts a secret message into an image.  
 - Decrypts the hidden message using a passcode.  
 - Uses **OpenCV** for image processing.  
-- Supports `.jpg` and `.png` formats for better compatibility.  
+- Supports `.jpg` and `.png` formats for better compatibility.
+
+## **Mohit Kala**
